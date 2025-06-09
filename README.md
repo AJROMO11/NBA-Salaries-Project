@@ -1,8 +1,5 @@
 # NBA Salary Predictions Project
 
-## Team Members
-Alex Chavez, AJ Romaniello, Osvaldo Pelaez, Elizabeth Barnum, Sophia Kohn
-
 ## Overview
 Machine learning project that predicts NBA player salaries using performance statistics from the 2022 NBA playoffs. Analyzes which in-game statistics are the most significant predictors of player compensation.
 
@@ -26,12 +23,6 @@ Machine learning project that predicts NBA player salaries using performance sta
 
 ## Technologies
 Python • Pandas • Scikit-learn • TensorFlow • Matplotlib • Jupyter
-
-## Installation
-```bash
-git clone https://github.com/AJROMO11/NBA-Salaries-Project.git
-cd NBA-Salaries-Project
-pip install pandas numpy scikit-learn tensorflow matplotlib seaborn jupyter
 ```
 
 ## Usage

@@ -23,7 +23,6 @@ Machine learning project that predicts NBA player salaries using performance sta
 
 ## Technologies
 Python • Pandas • Scikit-learn • TensorFlow • Matplotlib • Jupyter
-```
 
 ## Usage
 Run Jupyter notebooks to explore data, train models, and analyze feature importance using the Random Forest model.
